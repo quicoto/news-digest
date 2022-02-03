@@ -1,7 +1,5 @@
 name: Build and Deploy
 on:
-  # Trigger the workflow on push
-  # but only for the master branch
   push:
     branches:
       - main
