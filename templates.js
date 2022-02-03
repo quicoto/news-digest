@@ -5,6 +5,7 @@ module.exports.document = function (body) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A single place to check all my daily news sites in 1 go">
     <title>Daily Digest</title>
     <link type="text/css" rel="stylesheet" href="./styles.css" media="all">
   </head>
@@ -14,7 +15,7 @@ module.exports.document = function (body) {
         <nav class="container navbar navbar-dark">
         <div class="container-fluid">
           <h1 class="text-light h2 mb-0">Daily Digest</h1>
-          <a href="https://github.com/quicoto/news-digest" class="text-light" title="See repository on Github">Github</a>
+          <a rel="noopener" href="https://github.com/quicoto/news-digest" class="text-light" title="See repository on Github">Github</a>
         </div>
         </nav>
       </header>
