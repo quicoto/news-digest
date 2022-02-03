@@ -14,7 +14,7 @@ module.exports.document = function (body) {
         <nav class="container navbar navbar-dark">
         <div class="container-fluid">
           <h1 class="text-light h2 mb-0">Daily Digest</h1>
-          <a href="#" class="text-light" title="See repository on Github">Github</a>
+          <a href="https://github.com/quicoto/news-digest" class="text-light" title="See repository on Github">Github</a>
         </div>
         </nav>
       </header>
