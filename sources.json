@@ -2,7 +2,7 @@
   "sections": [
     {
       "title": "Tech",
-      "sources": [
+      "items": [
         {
           "title": "the Verge",
           "url": "https://www.theverge.com/rss/index.xml"
@@ -15,7 +15,7 @@
     },
     {
       "title": "International news",
-      "sources": [
+      "items": [
         {
           "title": "The Guardian",
           "url": "https://www.theguardian.com/international/rss"
@@ -28,7 +28,7 @@
     },
     {
       "title": "Spain news",
-      "sources": [
+      "items": [
         {
           "title": "Diari ara",
           "url": "https://www.ara.cat/rss/"
