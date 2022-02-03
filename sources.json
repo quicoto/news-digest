@@ -1,0 +1,47 @@
+{
+  "sections": [
+    {
+      "title": "Tech",
+      "sources": [
+        {
+          "title": "the Verge",
+          "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+          "title": "Hacker News",
+          "url": "https://hnrss.org/best"
+        }
+      ]
+    },
+    {
+      "title": "International news",
+      "sources": [
+        {
+          "title": "The Guardian",
+          "url": "https://www.theguardian.com/international/rss"
+        },
+        {
+          "title": "CNN",
+          "url": "http://rss.cnn.com/rss/edition.rss"
+        }
+      ]
+    },
+    {
+      "title": "Spain news",
+      "sources": [
+        {
+          "title": "Diari ara",
+          "url": "https://www.ara.cat/rss/"
+        },
+        {
+          "title": "El Mon",
+          "url": "https://elmon.cat/feed"
+        },
+        {
+          "title": "Vilaweb",
+          "url": "https://www.vilaweb.cat/rss"
+        }
+      ]
+    }
+  ]
+}
