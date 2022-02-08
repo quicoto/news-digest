@@ -30,10 +30,6 @@
       "title": "Spain news",
       "items": [
         {
-          "title": "Diari ara",
-          "url": "https://www.ara.cat/rss/"
-        },
-        {
           "title": "El Mon",
           "url": "https://elmon.cat/feed"
         },
