@@ -10,10 +10,6 @@
         {
           "title": "Hacker News",
           "url": "https://hnrss.org/best"
-        },
-        {
-          "title": "Hacker News Top 30",
-          "url": "https://rsshub.app/github/issue/meixger/hackernews-daily"
         }
       ]
     }
