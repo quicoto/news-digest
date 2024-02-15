@@ -7,7 +7,7 @@ module.exports.document = function (body) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A single place to check all my daily news sites in 1 go">
     <title>Daily Digest</title>
-    <link type="text/css" rel="stylesheet" href="./styles.css" media="all">
+    <link type="text/css" rel="stylesheet" href="./styles.css?ver=1.0.1" media="all">
   </head>
   <body>
     <main>

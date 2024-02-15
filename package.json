@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A single place to check all my daily news sites in 1 go",
   "dependencies": {
-    "rss-parser": "^3.12.0"
+    "rss-parser": "^3.13.0"
   },
   "scripts": {
     "build": "node index.js"
