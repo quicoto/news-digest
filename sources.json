@@ -10,7 +10,10 @@
         {
           "title": "Hacker News",
           "url": "https://garritfra.github.io/positive_hackernews/feed.xml"
-        }
+        },
+        {
+          "title": "THe Independent (News)",
+          "url": "https://www.independent.co.uk/news/rss"
       ]
     }
   ]
