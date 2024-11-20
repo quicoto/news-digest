@@ -12,8 +12,54 @@
           "url": "https://hnrss.org/best"
         },
         {
-          "title": "THe Independent (News)",
+          "title": "The Independent (News)",
           "url": "https://www.independent.co.uk/news/rss"
+        },
+        {
+          "title": "The Guardian (Tech)",
+          "url": "https://www.theguardian.com/uk/technology/rss"
+        }
+      ]
+    },
+    {
+      "title": "Finance",
+      "items": [
+        {
+          "title": "Yahoo",
+          "url": "https://finance.yahoo.com/news/rssindex"
+        },
+        {
+          "title": "The Guardian (Finance)",
+          "url": "https://www.theguardian.com/uk/business/rss"
+        },
+        {
+          "title": "The Independent (Finance)",
+          "url": "https://www.independent.co.uk/news/business/rss"
+        }
+      ]
+    },
+    {
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Men in Blazers",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwWgXewMHxlPkP5FkxoZvKQ"
+        },
+        {
+          "title": "Pivot",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBHGZpDF2fsqPIPi0pNyuTg"
+        },
+        {
+          "title": "DevOps Toolbox",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYeiozh-4QwuC1sjgCmB92w"
+        },
+        {
+          "title": "Simon Rosenberg",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jOJy7EClW-VY9uBAPZ7Q"
+        },
+        {
+          "title": "Planet Money",
+          "url": "https://feeds.npr.org/510289/podcast.xml"
         }
       ]
     }
