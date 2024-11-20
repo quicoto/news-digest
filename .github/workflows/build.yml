@@ -22,15 +22,15 @@ jobs:
         with:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: dist # The folder the action should deploy.
-      - name: Send notification 🐘
-        uses: actionsflow/axios@v1
-        with:
-          url: https://ricard.social/api/v1/statuses
-          method: POST
-          bearer-token: ${{ secrets.BOT_NOTIFICATIONS_ACCESS_TOKEN }}
-          data: |
-            {
-              "status":"@ricard Daily news digest\n\nhttps://quicoto.github.io/news-digest/",
-              "visibility": "private",
-              "media_ids": []
-            }
+#       - name: Send notification 🐘
+#         uses: actionsflow/axios@v1
+#         with:
+#           url: https://ricard.social/api/v1/statuses
+#           method: POST
+#           bearer-token: ${{ secrets.BOT_NOTIFICATIONS_ACCESS_TOKEN }}
+#           data: |
+#             {
+#               "status":"@ricard Daily news digest\n\nhttps://quicoto.github.io/news-digest/",
+#               "visibility": "private",
+#               "media_ids": []
+#             }
